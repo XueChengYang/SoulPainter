@@ -1,0 +1,3 @@
+gradio==3.27.0
+json
+Pillow==9.2.0
