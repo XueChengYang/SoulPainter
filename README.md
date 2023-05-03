@@ -23,4 +23,4 @@ If the program prompts that there is a lack of dependent libraries during its ex
 pip install -r requirements.txt
 ```
 
-![2023-05-03 14-01-41](.\img\2023-05-03 14-01-41.jpg)
+![2023-05-03 14-01-41](https://github.com/XueChengYang/SoulPainter/blob/main/img/2023-05-03%2014-01-41.jpg)
